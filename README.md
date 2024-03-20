@@ -1,5 +1,5 @@
-<H3>Name: R .JOYCE BEULAH</H3>
-<H3>Register no: 212222230058</H3>
+<H3>Name: RAKESH V</H3>
+<H3>Register no: 212222110036</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
